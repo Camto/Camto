@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/Camto/Camto/master/Kabum.jpg" /></div>
+<p align="center"><img src="https://raw.githubusercontent.com/Camto/Camto/master/Kabum.jpg" /></p>
 
 # It's me, Camto
 
